@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theresawebsiteforthis.com/sitemap.xml
